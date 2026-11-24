@@ -1,0 +1,10 @@
+{
+  "description": "A report page that presents comments clearly and accessibly for readers aged 30 and older, making feedback easier to scan and understand.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
